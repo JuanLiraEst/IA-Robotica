@@ -1,0 +1,24 @@
+{"intents":[
+  { "tag": "saudacao",
+    "patterns":["Ola","Opa","Oi", "tudo bem", "Bom dia", "Boa tarde"],
+    "responses": ["Oi","Olá"]
+  },
+  { "tag": "duvida_geral_01",
+    "patterns":["O que é o PIPE?", "Defina PIPE", "Projeto PIPE", "Qual o significado de PIPE?"],
+    "responses": [" O objetivo do PIPE é apoiar projetos de pesquisa para inovação, oferecendo recursos para custear a pesquisa visando ao desenvolvimento de um produto, processo ou serviço inovador."]
+  },
+  { "tag": "duvida_geral_02",
+  "patterns":["Como eu submeto um projeto no PIPE?", "Submeter no PIPE", "Subir no PIPE", "Upload projeto PIPE"],
+  "responses": [" As propostas para o PIPE: Fase 1, Fase 2, Fase 3 e PIPE Invest são recebidas em fluxo contínuo durante todo o ano."]
+  },
+  { "tag": "duvida_geral_02.1",
+  "patterns":["O que são as fases do PIPE", "O que são essas fases", "Fases Pipe", "Detalhes fases PIPE", "Fase 1", "Fase 2", "Fase 3"],
+  "responses": ["Fase 1: é destinada à verificação da viabilidade técnico-científica da proposta, (duração de até 9 meses e orçamento de até R$ 300.000, mais Reserva Técnica e Benefícios Complementares)\n\nFase 2: destina-se à execução da pesquisa propriamente dita (duração de até 24 meses e orçamento de até R$ 1.500.000, mais Reserva Técnica e Benefícios Complementares);\n\nPIPE Invest: Aceleração da chegada ao mercado de Projetos da Fase 2, quando houver terceira parte interessada (duração de até 24 meses e orçamento de até R$ 1.500.000);\n\nFase 3: desenvolvimento comercial e industrial dos produtos, processos, sistemas e/ou serviços inovadores obtidos a partir de pesquisas anteriores realizadas pela pequena empresa sem o apoio da FAPESP ou a partir de pesquisa apoiada no âmbito do PIPE."]
+  },
+  { "tag": "despedida",
+    "patterns":["valeu","tchau","Obrigado","tks"],
+    "responses": ["Até breve","Falou"]
+  }
+
+]
+}
