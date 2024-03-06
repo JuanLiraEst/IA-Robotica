@@ -30,7 +30,7 @@
 
   { "_comment": "Dúvidas sobre outros projetos do PIPE já desenvolvidos",
     "tag": "duvida_geral_04",
-  "patterns":["Exemplos projetos PIPE", "Sugestões", "Ideias de projetos"],
+  "patterns":["Exemplos projetos PIPE", "Sugestões de projetos","Modelos já feitos", "Ideias de projetos já desenvolvidos"],
   "responses": ["Alguns exemplos de projetos que você encontra em meu site:\n 1. Super-bateria iônica com armadilha de elétrons e benefícios do grafeno e nióbio\n 2. Termografia ativa e segmentação de imagens para diagnóstico de câncer de pele\n 3. Sistema de apoio à tomada de secisão para conciliação, predição e mitigação de judicialização usando ciência de dados na área da saúde"]
   },
 
